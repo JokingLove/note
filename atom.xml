@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jokinglove.com/note</id>
     <title>note</title>
-    <updated>2019-08-02T08:06:05.458Z</updated>
+    <updated>2019-08-02T08:07:27.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jokinglove.com/note"/>
     <link rel="self" href="https://jokinglove.com/note/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jokinglove.com/note/images/avatar.png</logo>
     <icon>https://jokinglove.com/note/favicon.ico</icon>
     <rights>All rights reserved 2019, note</rights>
+    <entry>
+        <title type="html"><![CDATA[共产主义]]></title>
+        <id>https://jokinglove.com/note/post/gong-chan-zhu-yi</id>
+        <link href="https://jokinglove.com/note/post/gong-chan-zhu-yi">
+        </link>
+        <updated>2019-08-02T08:06:56.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="我们是共产主义接班人">我们是共产主义接班人</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jokinglove.com/note/post/hello-gridea</id>
